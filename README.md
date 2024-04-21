@@ -1,1 +1,1 @@
-A bash script which simple automates https://github.com/lukas-blecher/LaTeX-OCR.
+A bash script which automates the use of https://github.com/lukas-blecher/LaTeX-OCR.
